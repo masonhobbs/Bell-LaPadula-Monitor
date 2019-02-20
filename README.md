@@ -6,4 +6,4 @@ A simulation of the Bell-LaPadula Security Model written in C++. The program rea
   
 # Execution
 
-  ./BLPSecure <filename>
+  $ ./BLPSecure <filename>
